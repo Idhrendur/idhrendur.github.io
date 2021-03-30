@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 2 – Internal Affairs"
 date:   2013-02-12 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 The Seljuk invasion defeated, Konstantinos began to march the armies home. While he did so, the dukes of the Empire presented an ultimatum, weakening his power.
 

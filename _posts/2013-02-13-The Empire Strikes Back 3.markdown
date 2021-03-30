@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 3 – A Sicilian Adventure"
 date:   2013-02-13 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 Konstantinos had just defeated a rebellion in the Empire, itself launched just after a Seljuk invasion had been turned back.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 5 – War, Wars, and Half a War"
 date:   2013-02-15 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 Konstantinos X gathered his armies and sent them to the Levant. The lands rebelling against the Fatimids could not stand before Konstantinos' forces. But neither could they stand against the Fatimid armies. While Acre fell the the Empire, Jerusalem fell to the Fatimids. Konstantios attempted a simultaneous strike on the main Fatimid army using two of his forces.
 

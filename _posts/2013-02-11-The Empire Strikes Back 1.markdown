@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 1 – A New Beginning"
 date:   2013-02-11 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 This was Konstantinos X of the Empire.*
 

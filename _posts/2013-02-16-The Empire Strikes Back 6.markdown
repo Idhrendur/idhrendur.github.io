@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 6 – The Ill-Ruler"
 date:   2013-02-16 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 This was Emperor Konstantinos X. He was born in 1006 and began ruling the Empire in 1059.
 

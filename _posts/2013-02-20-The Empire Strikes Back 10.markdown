@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 10 – The Saint"
 date:   2013-02-20 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: AARs The_Empire_Strikes_Back
 ---
 This was Emperor Konstantios III. He was born in 1060 and began ruling the Empire in 1085.
 
