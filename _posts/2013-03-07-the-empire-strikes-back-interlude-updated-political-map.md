@@ -6,4 +6,4 @@ author: idhrendur
 comments: true
 categories: [AARs, The Empire Strikes Back]
 ---
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/23-map.png">
+![](/assets/tesb_images/23-map.png)

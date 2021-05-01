@@ -6,7 +6,7 @@ author: idhrendur
 comments: true
 categories: [AARs, The Empire Strikes Back]
 ---
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/ck2_map_2.png">
+![](/assets/tesb_images/ck2_map_2.png)
 
 On religion, because I find it interesting how it's working out: apart from France and the HRE (which are Catholic), all Christians are Orthodox. France was as well for awhile, but recently fell to the sway of a Catholic ruler. Iberian Muslims are Ibadi. West African Muslims are Sunni. Horn of Africa Muslims are Shia, and the rest are Zikri. Cumania is still Tengri. There are a few pagan provinces left in Africa, and a few Suomenusko provinces in the north.
 

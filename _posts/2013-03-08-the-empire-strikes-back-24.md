@@ -8,7 +8,7 @@ categories: [AARs, The Empire Strikes Back]
 ---
 This was Konstantinos XIII of the Empire.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/24-1_zps218e31bb.png">
+![](/assets/tesb_images/24-1.png)
 
 He had ascended to the throne in 1189, at the age of 9. Despite a revolving cast of regents, the Empire flourished during his childhood. Nearly all threats to his rulership were diffused, and territories were gained in Muslim Armenia, central Italy, and eastern Sicily.
 
@@ -18,8 +18,8 @@ His ambitions fulfilled, he had planned to cease his warring. But a scholar conv
 
 That accomplished, he spent the extensive remainder of his reign improving his holdings, founding new cities, tightening his rule, creating titles, and distributing said titles. After all, an Emperor should rule over kings.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/24-2_zps159fc9d8.png"><img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/24-3_zps5b7842a6.png">
+![](/assets/tesb_images/24-2.png)![](/assets/tesb_images/24-3.png)
 
 Finally, in 1260, at the great age of 79, he died, and was succeeded by Niketas I, his third son.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/24-4_zps6d127ec5.png">
+![](/assets/tesb_images/24-4.png)

@@ -8,40 +8,40 @@ categories: [AARs, The Empire Strikes Back]
 ---
 This was Konstantinos XIII of the Empire. He had ascended to the throne at the age of nine, and had just come out from the resulting regency in 1196.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-1.png">
+![](/assets/tesb_images/21-1.png)
 
 He was just, ambitious, patient, greedy, and proud. Surely he would make the Empire much mightier than before. He was also attracted to men instead of women. But he knew he needed heirs, and so married.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-2.png">
+![](/assets/tesb_images/21-2.png)
 
 Hungry for gold, he raised taxes on the clergy.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-13.png">
+![](/assets/tesb_images/21-3.png)
 
 He later spent that gold on a tournament. During that tournament, he was able to announce the birth of his first child, a daughter.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-4.png">
+![](/assets/tesb_images/21-4.png)
 
 Shortly thereafter, he declared war on Egypt to recover Hebron. The war was won swiftly.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-5.png">
+![](/assets/tesb_images/21-5.png)
 
 It was followed by a few other strategic wars.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-6.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-7.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-8.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-9.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-10.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-11.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-12.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-13.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-14.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-15.png">
+![](/assets/tesb_images/21-6.png)
+![](/assets/tesb_images/21-7.png)
+![](/assets/tesb_images/21-8.png)
+![](/assets/tesb_images/21-9.png)
+![](/assets/tesb_images/21-10.png)
+![](/assets/tesb_images/21-11.png)
+![](/assets/tesb_images/21-12.png)
+![](/assets/tesb_images/21-13.png)
+![](/assets/tesb_images/21-14.png)
+![](/assets/tesb_images/21-15.png)
 
 During this time, long tradition established Syria as a de jure kingdom in the Empire, not just a de facto one.
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-16.png">
+![](/assets/tesb_images/21-16.png)
 
 Eventually, Konstantinos found himself in truces with the only non-Imperial rulers to hold Imperial lands. He had long since lost his ambition for more, having achieved what few rulers could hope to. However, his chancellors, recognizing his former ambition, had found (at great cost) documents showing his right to rule the duchies of Genoa and Alexandria. The question of the veracity of those documents is still not resolved. Nevertheless, Konstantinos was too proud to let a territory potentially his to slip away. He declared war on France for Genoa.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/21-17.png">
+![](/assets/tesb_images/21-17.png)
