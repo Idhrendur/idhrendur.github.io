@@ -8,12 +8,12 @@ categories: [AARs, The Empire Strikes Back]
 ---
 This was Konstantios IV Doukas, Emperor of the Romans.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/42-1_zpse40e0499.png">
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-2_zps8a4c9291.png">
+![](/assets/tesb_images/42-1.png)
+![](/assets/tesb_images/42-2.png)
 
 He would be known to future generations as the reformer. On his ascension to the throne, he summoned the various dukes, counts, barons, and other assorted nobles to Constantinople. He proposed to them a radical restructuring of the Empire. The various rulers under the Emperor would be more akin to the military governors of old. They would still rule their lands, but only the Emperor would reign. All diplomacy with other lands would be done by the Emperor, and only by the Emperor.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-3_zpse4916efb.png">
+![](/assets/tesb_images/42-3.png)
 
 The governors would no longer supply levees to the Empire. Instead, they would ensure there were a sufficient number of recruits to the Scholai Palatinae from their territories. The more savvy of the nobles recognized that this was a perfect method of disposing of the more troublesome commoners in their lands.
 
@@ -21,27 +21,27 @@ As well, the governors would no longer pay a percentage of their income as taxes
 
 Finally, agents of the Emperor were to be allowed access throughout the lands. These agents would be in charge of various projects to improve the infrastructure and such. Their initial projects would pacify the peoples and increase the stability of the realm.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-4_zps1767e2e6.png">
+![](/assets/tesb_images/42-4.png)
 
 The nobles were not entirely happy at these reforms. While their feudal burdens were eased, they did recognize the loss of privilege. While none were inclined to rebel, nearly all maintained the notion that they had the right to reign in their lands. But for now, the benefits of reform were worthwhile.
 
 During the various visits to Constantinople, Konstantios inquired of the various governors what course the Empire should take. Despite the Timurid threat to the east, most of them were eager to see the former French King humiliated further. They suggested that Britain should again be Roman. Or at least Mercia should, for now.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-5_zps08311310.png">
+![](/assets/tesb_images/42-5.png)
 
 <HR>
 
 Konstantios also assessed the institutions of the Empire. The church already preached loyalty, constables in the major cities kept crime down (and tax incomes high), the army and navy had armories and docks, and markets had been established everywhere. As well, there were major universities in many cities (Constantinople, Thessaloniki, Varna, Adrianople, Kozani, Sevilla, Córdoba, Amastris, Mus, Dayr Az Zor, Van, Alexandria, and Tripoli). Finally, there were textile manufactories in Nicaea and Cherson. Truly the Empire was wealthy.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-6_zpsee5b0110.png">
+![](/assets/tesb_images/42-6.png)
 
 The control over the Mediterranean meant an increase in trade. Konstantios began commissioning merchants to trade for the profit of the Empire.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-7_zps981d39fd.png">
+![](/assets/tesb_images/42-7.png)
 
 There were various provinces that still swore by the Pope. Konstantios sent missionaries to lead them to the truth.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-8_zps5489b3e2.png">
+![](/assets/tesb_images/42-8.png)
 
 The ships donated by the different governors were sent to Constantinople to be organized into fleets. It turned out most of the donations were cogs, suitable only for transporting troops.
 
@@ -51,11 +51,11 @@ The Scholai Palatinae were moved about and shuffled into different units to avoi
 
 Finally, Konstantios considered the ideas that would rule the Empire. He had the opportunity to adjust the nature of the government while all the governors visited.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-9_zps47978af2.png">
+![](/assets/tesb_images/42-9.png)
 
 And with his agents beginning to go throughout the land, there was the idea to instill an idea in the popular imagination.
 
-<img src="http://i1327.photobucket.com/albums/u670/idhrendur/The%20Empire%20Strikes%20Back/42-10_zps73cdab12.png">
+![](/assets/tesb_images/42-10.png)
 
 <HR>
 
