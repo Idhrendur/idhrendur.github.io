@@ -29,7 +29,7 @@ During the various visits to Constantinople, Konstantios inquired of the various
 
 ![](/assets/tesb_images/42-5.png)
 
-<HR>
+***
 
 Konstantios also assessed the institutions of the Empire. The church already preached loyalty, constables in the major cities kept crime down (and tax incomes high), the army and navy had armories and docks, and markets had been established everywhere. As well, there were major universities in many cities (Constantinople, Thessaloniki, Varna, Adrianople, Kozani, Sevilla, Córdoba, Amastris, Mus, Dayr Az Zor, Van, Alexandria, and Tripoli). Finally, there were textile manufactories in Nicaea and Cherson. Truly the Empire was wealthy.
 
@@ -47,7 +47,7 @@ The ships donated by the different governors were sent to Constantinople to be o
 
 The Scholai Palatinae were moved about and shuffled into different units to avoid attrition in the east. They were split into provisional units of 11,000 horsemen, each in a different province. The armies in Constantinople were sent to the unwatched borders with the Timurids, except for 1000 men who would watch over the City of Man's Desire.
 
-<HR>
+***
 
 Finally, Konstantios considered the ideas that would rule the Empire. He had the opportunity to adjust the nature of the government while all the governors visited.
 
@@ -57,6 +57,6 @@ And with his agents beginning to go throughout the land, there was the idea to i
 
 ![](/assets/tesb_images/42-10.png)
 
-<HR>
+***
 
 <i>In case that wasn't entirely clear, I'm looking for advice on my sliders and first NI.</i>
