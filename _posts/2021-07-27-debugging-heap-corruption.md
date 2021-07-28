@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debugging Heap Corruption in Visual Studio
+title: Debugging heap corruption using pageheap
 date: 2021-07-27 20:30
 author: idhrendur
 comments: true
