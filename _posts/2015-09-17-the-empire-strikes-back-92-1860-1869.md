@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Empire Strikes Back 92 - 1860 - 1869
+title: The Empire Strikes Back 92 - 1860-1869
 date: 2015-09-17 16:19
 author: idhrendur
 comments: true
