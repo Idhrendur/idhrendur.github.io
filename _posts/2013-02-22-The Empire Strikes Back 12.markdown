@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 12 – The Egyptian Rebellion"
+title:  "The Empire Strikes Back 12 - The Egyptian Rebellion"
 date:   2013-02-22 14:00:00 -0800
 categories: [AARs, TESB]
 ---

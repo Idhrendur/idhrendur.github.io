@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 16 – Castrato"
+title:  "The Empire Strikes Back 16 - Castrato"
 date:   2013-02-26 14:00:00 -0800
 categories: [AARs, TESB]
 ---

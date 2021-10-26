@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 11 – The Reign of Peace"
+title:  "The Empire Strikes Back 11 - The Reign of Peace"
 date:   2013-02-21 14:00:00 -0800
 categories: [AARs, TESB]
 ---

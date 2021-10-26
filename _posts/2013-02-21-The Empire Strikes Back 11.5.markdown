@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back Interlude – Religion Map"
+title:  "The Empire Strikes Back Interlude - Religion Map"
 date:   2013-02-21 15:00:00 -0800
 categories: [AARs, TESB]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 19 – The Cruel"
+title:  "The Empire Strikes Back 19 - The Cruel"
 date:   2013-03-01 14:00:00 -0800
 categories: [AARs, TESB]
 ---

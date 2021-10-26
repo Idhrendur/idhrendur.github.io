@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 3 – A Sicilian Adventure"
+title:  "The Empire Strikes Back 3 - A Sicilian Adventure"
 date:   2013-02-13 14:00:00 -0800
 categories: [AARs, TESB]
 ---

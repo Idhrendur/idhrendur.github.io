@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Empire Strikes Back 105 – The Time of Troubles 1911-1912
+title: The Empire Strikes Back 105 - The Time of Troubles 1911-1912
 date: 2018-09-29 23:55
 author: idhrendur
 comments: true

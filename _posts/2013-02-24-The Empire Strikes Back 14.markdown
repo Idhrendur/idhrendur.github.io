@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 14 – The Childless"
+title:  "The Empire Strikes Back 14 - The Childless"
 date:   2013-02-24 14:00:00 -0800
 categories: [AARs, TESB]
 ---

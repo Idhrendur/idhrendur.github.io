@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 15 – The Great Rebellion"
+title:  "The Empire Strikes Back 15 - The Great Rebellion"
 date:   2013-02-25 14:00:00 -0800
 categories: [AARs, TESB]
 ---

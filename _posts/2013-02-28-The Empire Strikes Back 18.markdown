@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 18 – Losses"
+title:  "The Empire Strikes Back 18 - Losses"
 date:   2013-02-28 14:00:00 -0800
 categories: [AARs, TESB]
 ---

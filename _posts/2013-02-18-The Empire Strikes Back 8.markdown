@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 8 – The Χριστιανός ρυπαρός υιοθεσία"
+title:  "The Empire Strikes Back 8 - The Χριστιανός ρυπαρός υιοθεσία"
 date:   2013-02-18 14:00:00 -0800
 categories: [AARs, TESB]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 7 – A Heathen Assault"
+title:  "The Empire Strikes Back 7 - A Heathen Assault"
 date:   2013-02-17 14:00:00 -0800
 categories: [AARs, TESB]
 ---

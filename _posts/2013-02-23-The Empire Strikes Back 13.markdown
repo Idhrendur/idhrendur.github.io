@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 13 – Childless and Bereft"
+title:  "The Empire Strikes Back 13 - Childless and Bereft"
 date:   2013-02-23 14:00:00 -0800
 categories: [AARs, TESB]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 9 – Prince of Egypt"
+title:  "The Empire Strikes Back 9 - Prince of Egypt"
 date:   2013-02-19 14:00:00 -0800
 categories: [AARs, TESB]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 2 – Internal Affairs"
+title:  "The Empire Strikes Back 2 - Internal Affairs"
 date:   2013-02-12 14:00:00 -0800
 categories: [AARs, TESB]
 ---

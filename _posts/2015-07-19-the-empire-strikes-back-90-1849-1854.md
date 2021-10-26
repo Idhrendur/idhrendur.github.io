@@ -97,7 +97,7 @@ Doukas nearly shouted, “Who sent you?! What are your orders? Are there others?
 
 The Ruthenian laughed evilly “Soon the Germanic barbarians will sack Rome again.” He then died.
 
-The pain overwhelmed Doukas, and he collapsed to the floor. Before he lost consciousness, he heard more explosions – this time from the direction of downtown. Blachernae may have been among the targets, but he didn't know. “God have mercy on our souls!” he whispered.
+The pain overwhelmed Doukas, and he collapsed to the floor. Before he lost consciousness, he heard more explosions - this time from the direction of downtown. Blachernae may have been among the targets, but he didn't know. “God have mercy on our souls!” he whispered.
 
 <p style="text-align: center;">...</p>
 

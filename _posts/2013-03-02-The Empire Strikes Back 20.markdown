@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 20 – The War Regency"
+title:  "The Empire Strikes Back 20 - The War Regency"
 date:   2013-03-02 14:00:00 -0800
 categories: [AARs, TESB]
 ---

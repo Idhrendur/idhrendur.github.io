@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 10 – The Saint"
+title:  "The Empire Strikes Back 10 - The Saint"
 date:   2013-02-20 14:00:00 -0800
 categories: [AARs, TESB]
 ---

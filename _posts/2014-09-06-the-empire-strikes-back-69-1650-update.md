@@ -27,7 +27,7 @@ The Inca leaders seemed disinterested in instructing any of their own people.[^1
 And the Aztecs had not had much time to figure out how to instruct many of their people.
 <p align="center"><img src="/assets/tesb_images/69-6.png"></p>
 
-The African coast was proving valuable to trade – either to extract goods or to supply ships rounding the Cape of Africa. This would surely be an area of much fighting in the future.
+The African coast was proving valuable to trade - either to extract goods or to supply ships rounding the Cape of Africa. This would surely be an area of much fighting in the future.
 <p align="center"><img src="/assets/tesb_images/69-7.png"></p>
 
 Deccan had tightened their control of Hindustan, but the Spice Islands had shattered into chaos.

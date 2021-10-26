@@ -262,7 +262,7 @@ Finally, there seems to be sufficient support to make political reforms in the E
 > 
 > When the first rebellion broke out in Athens, my house was burned down, with my wife and servants all brutally murdered and dismembered; the local tagmata managed to help me escape but could not return in time to save my wife or servants.  Leading the mob of so-called reactionaries was a Slavic-looking man with an eye-patch, promising to bring down the Empress for her crimes against tradition.  When I found my wife’s body, a sign was nailed into her head, with the following written in blood: “The Cult Remembers.”
 > 
-> Yes – the Cult, the same one that almost killed the Empress, is behind this.
+> Yes - the Cult, the same one that almost killed the Empress, is behind this.
 > 
 > In the next few years, as rebellions broke out in France, Varna (nearly killing my son), Egypt, and Southern Hispania, with their ideologies ranging from Jacobin to reactionary, all of them shared a defining characteristic: a Slavic-looking man with an eye-patch led them and managed to escape the tagmatas sent to crush the rebellions every single time.  We know this man as Iosef Ignatieff, the leader of a savage pagan cult practicing abominable human sacrifice to their Dark Gods and bent on the destruction of the Empire.  He came very close to doing that in 1854.
 > 
@@ -270,7 +270,7 @@ Finally, there seems to be sufficient support to make political reforms in the E
 > 
 > “To the Duke who is now a duke and the Doukas who is not emperor:
 > 
-> Your Empire’s efforts at crushing rebels are in vain.  The Cult is many-headed.  Sever one head, and two more shall take its place.  Soon we shall succeed – the Empire shall fall, and Chernobog shall feast on humanity.  It is even better if you die; my seers tell me that the death of the Duke and the Artist shall being about the death of the Empress and the House of Doukas, and they are never wrong.  We’ve sent men to Venice to handle the Artist already.
+> Your Empire’s efforts at crushing rebels are in vain.  The Cult is many-headed.  Sever one head, and two more shall take its place.  Soon we shall succeed - the Empire shall fall, and Chernobog shall feast on humanity.  It is even better if you die; my seers tell me that the death of the Duke and the Artist shall being about the death of the Empress and the House of Doukas, and they are never wrong.  We’ve sent men to Venice to handle the Artist already.
 > 
 > As for you in your city of Constantinople?  We don’t need to send anybody.  We have men there right now, in the Senate itself.  I can tell you, there are twelve worshippers of Chernobog among the ranks of your “loyal senators” as you read this.
 > 

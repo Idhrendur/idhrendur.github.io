@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 5 – War, Wars, and Half a War"
+title:  "The Empire Strikes Back 5 - War, Wars, and Half a War"
 date:   2013-02-15 14:00:00 -0800
 categories: [AARs, TESB]
 ---

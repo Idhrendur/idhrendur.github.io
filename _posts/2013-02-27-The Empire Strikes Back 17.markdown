@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 17 – Ah, Venice!"
+title:  "The Empire Strikes Back 17 - Ah, Venice!"
 date:   2013-02-27 14:00:00 -0800
 categories: [AARs, TESB]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Empire Strikes Back 4 – The Sea of Galilee"
+title:  "The Empire Strikes Back 4 - The Sea of Galilee"
 date:   2013-02-14 14:00:00 -0800
 categories: [AARs, TESB]
 ---
