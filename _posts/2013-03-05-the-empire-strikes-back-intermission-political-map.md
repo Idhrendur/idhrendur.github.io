@@ -4,7 +4,7 @@ title: The Empire Strikes Back Interlude - Political Map
 date: 2013-03-05 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 ![](/assets/tesb_images/ck2_map_2.png)
 

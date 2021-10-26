@@ -4,7 +4,7 @@ title: The Empire Strikes Back 48 - The End of an Era
 date: 2013-11-10 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 By January 1433, Konstantios was ready for a campaign in the Alps. He began by declaring war on Upper Burgundy for Schwyz. The usual assortment joined in defense.  
 

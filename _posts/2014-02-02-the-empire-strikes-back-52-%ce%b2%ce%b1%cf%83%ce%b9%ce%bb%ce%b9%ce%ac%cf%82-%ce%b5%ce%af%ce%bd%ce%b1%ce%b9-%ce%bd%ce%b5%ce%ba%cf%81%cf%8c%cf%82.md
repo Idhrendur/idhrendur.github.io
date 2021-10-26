@@ -4,7 +4,7 @@ title: The Empire Strikes Back 52 - βασιλιάς είναι νεκρός…
 date: 2014-02-02 21:59
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Empress Zoe II had declared war on several nations to reclaim Imperial provinces. The allies of the attacked nations joined in, creating a very large series of simultaneous wars.  
 ![](/assets/tesb_images/52-1.png)![](/assets/tesb_images/52-2.png)![](/assets/tesb_images/52-3.png)

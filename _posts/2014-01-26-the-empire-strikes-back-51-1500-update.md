@@ -4,7 +4,7 @@ title: The Empire Strikes Back 51 - 1500 Update
 date: 2014-01-26 16:55
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 By 1500, the Empire had reclaimed most of its territory in Britannia.  
 ![](/assets/tesb_images/51-1.png)

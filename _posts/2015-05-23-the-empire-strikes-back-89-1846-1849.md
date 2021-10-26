@@ -4,7 +4,7 @@ title: The Empire Strikes Back 89 - 1846-1849
 date: 2015-05-23 20:05
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators, your presence is requested for a State of the Empire Address on the First of January, 1849.

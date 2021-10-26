@@ -4,7 +4,7 @@ title: The Empire Strikes Back 72 - Expansion Resumes
 date: 2014-09-27 21:29
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos inherited the Empire while little more than an infant. In fact, the same regency council that had governed in his father's childhood reigned during his.
 <p align="center"><img src="/assets/tesb_images/72-1.png"></p>

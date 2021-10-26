@@ -4,7 +4,7 @@ title: The Empire Strikes Back 79 - War in Africa
 date: 2014-11-22 23:21
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Mali was an old and rich land. Wisely led by their Imams, they had grown powerful in western Africa. The legions were able to beat Mali's armies in any battle, but had a hard time maintaining any sieges as the Malinese army would travel to where the Legions were not and put Imperial controlled regions to siege. It took two years for the Legions to find some semblance of order to the war. By 1752, the western parts of Mali were besieged by XVII. Legio, XVI. Legio was bringing the Timbuktu region under control (with constant marching by the largest part of the Legion to defeat newly raised and organized Malinese forces), IX. Legio was clearing the Guinean region of forces and beginning the critical sieges, and XII. Legio (shipped over when it was apparent Mali was not an knockover) fended off Malinese raids and dreamed of marching on the Lake Tchad region.  
 

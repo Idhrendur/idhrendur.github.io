@@ -4,7 +4,7 @@ title: The Empire Strikes Back 87 - 1839-1843
 date: 2015-04-28 01:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators,

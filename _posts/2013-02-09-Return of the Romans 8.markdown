@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 8"
 date:   2013-02-09 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 Duchess Athanasia had had her empire stolen from her. She had spent half of her life in her uncle's dungeon. And she was scheming to come back on top. She considered her resources. She had money, but her uncle refused to ransom her.  
 ![](/assets/return_of_the_romans_images/8-1.png)

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 68 - Minor Wars
 date: 2014-09-02 04:15
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In the wake of the Mailnese war, there was little war to be had, so Ioannes focused on administrating the Empire while his various truces expired. He also focused on administrating Kiev, often overlooked by the Emperors. With its great expansion, the feudal organization was insufficient to govern it well. So Ioannes reformed the government, centralizing the power and renaming it the Kingdom of Ukraine.
 <p align="center"><img src="/assets/tesb_images/68-1.png"></p>

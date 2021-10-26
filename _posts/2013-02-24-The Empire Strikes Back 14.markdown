@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 14 – The Childless"
 date:   2013-02-24 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 This was Konstantinos XII of the Empire. He ascended to the throne in 1163.
 

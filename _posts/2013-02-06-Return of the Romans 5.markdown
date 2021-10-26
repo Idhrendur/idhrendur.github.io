@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 5"
 date:   2013-02-06 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 On January 1, 1076, Konstantios III of the East Roman Empire reached the age of majority.  
 ![](/assets/return_of_the_romans_images/5-1.png)

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 56 - The Peace of Westphalia
 date: 2014-03-21 03:08
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The conference began in the largest hall available. The various leaders and great landholders of the Empire's foes were gathered. Burly men with sashes of Justinian purple stood inside the halls, the Emperor's personal guard, the Varangians. The Scholai Palantinae kept watch outside, an imposing force. When enough time had passed to make the gathered men uncomfortable, Emperor Konstantios entered and stood on a dais at the front of the hall.  
 

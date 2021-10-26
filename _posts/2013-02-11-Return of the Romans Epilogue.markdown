@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans Epilogue"
 date:   2013-02-11 13:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 That went terribly. On the forums, I had been ahead on my playing and writing, and was doling out posts (ah, the days when I had a buffer of posts). So I was able to promptly start a new series. The same shall happen here.
 

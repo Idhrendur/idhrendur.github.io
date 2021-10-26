@@ -4,7 +4,7 @@ title: The Empire Strikes Back 43 - Europa 1408
 date: 2013-10-06 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Iberia circa 1400. The Mediterranean coast and most of the Pyrennes were controlled by the Empire, but the rest was controlled by Leon. At this time, there was a rebellion by nobles who felt King Bosón Jimena's rule was too strict.  
 ![](/assets/tesb_images/43-1.png)

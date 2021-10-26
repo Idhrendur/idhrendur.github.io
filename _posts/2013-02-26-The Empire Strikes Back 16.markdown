@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 16 – Castrato"
 date:   2013-02-26 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Makarios I had defeated a major rebellion. Now he faced the question of what to do with the rebel leaders.
 

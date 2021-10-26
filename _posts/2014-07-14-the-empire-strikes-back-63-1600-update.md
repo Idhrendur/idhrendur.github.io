@@ -4,7 +4,7 @@ title: The Empire Strikes Back 63 - 1600 Update
 date: 2014-07-14 01:11
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 From 1550 to 1600, the Empire had not expanded too far in Europe. Portugal and more of Britannia had been returned to the Empire, but that was all.
 <p align="center"><img src="/assets/tesb_images/63-1.png"></p>

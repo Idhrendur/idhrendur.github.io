@@ -4,7 +4,7 @@ title: The Empire Strikes Back 55 - The 15 Year War, Part II
 date: 2014-03-06 03:39
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 With the arrival of a Hashashin army in Swabia in February 1516, VI Legio sought to reclaim the towns that had fallen to enemy control in Lombardia.  
 ![](/assets/tesb_images/55-1.png)

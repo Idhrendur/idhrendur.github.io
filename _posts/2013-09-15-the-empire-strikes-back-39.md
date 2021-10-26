@@ -4,7 +4,7 @@ title: The Empire Strikes Back 39 - The Second Timurid War
 date: 2013-09-15 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire had forced the Timurids to agree to a truce. But the truce was only for one year. Konstantinos was convinced that there would be war again in short order. He began to prepare.
 

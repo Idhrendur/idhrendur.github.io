@@ -4,7 +4,7 @@ title: The Empire Strikes Back 94 - The Imperial Census
 date: 2015-10-28 22:40
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Senators,
 

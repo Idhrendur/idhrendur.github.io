@@ -4,7 +4,7 @@ title: The Empire Strikes Back 59 - 1550 Update
 date: 2014-04-11 00:14
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Between 1500 and 1550, the borders of the Empire did not change greatly.  
 

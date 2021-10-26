@@ -4,7 +4,7 @@ title: The Empire Strikes Back 62 - Solomon's Gold
 date: 2014-05-20 02:59
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Iberia was fully returned to Imperial control. The members of Vouli then suggested that Konstantinos might impose a little more order on the upper Nile regions.  
 <p align="center"><img src="/assets/tesb_images/62-1.png"></p>

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 20 – The War Regency"
 date:   2013-03-02 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 This was Konstantinos XIII of the Empire. He ascended in 1189, at age 9.
 

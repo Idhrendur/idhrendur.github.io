@@ -4,7 +4,7 @@ title: The Empire Strikes Back 25 - Imperial Italian Irredentism
 date: 2013-03-09 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Niketas I of the Empire. He ascended to the throne in 1260, at the age of 58.
 

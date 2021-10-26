@@ -4,7 +4,7 @@ title: The Empire Strikes Back 80 - Alexander Goes to War
 date: 2015-01-04 18:57
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 While the Regency Council ruling for Alexander did not have the authority to start wars, they had the authority to respond to their allies. Norway had been a warmonger in Southeast Asia for several years, and finally they provoked a larger war.  
 <p align="center"><img src="/assets/tesb_images/80-1.png"></p>

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back Interlude – Religion Map"
 date:   2013-02-21 15:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 I promised a religion map. This is what Europe looks like 50 years after the Great Schism has ended.
 

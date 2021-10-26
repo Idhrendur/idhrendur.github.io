@@ -4,7 +4,7 @@ title: The Empire Strikes Back 27 - The Duke
 date: 2013-03-11 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Niketas had lost the Empire to Loukas. But he remained resolute that his branch of the family would become ascendant again. It was not hard to do so. He still ruled a large and rich demesne.
 

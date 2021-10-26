@@ -4,7 +4,7 @@ title: The Empire Strikes Back 103 - The Time of Troubles
 date: 2017-04-22 20:43
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 
 <p style="text-align: center;"><strong>17 August 1910</strong></p>

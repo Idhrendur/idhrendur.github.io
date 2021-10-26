@@ -4,7 +4,7 @@ title: The Empire Strikes Back 97- 1890-1895
 date: 2016-03-08 23:33
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Announcing the Session</strong></p>
 Senators,

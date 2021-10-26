@@ -4,7 +4,7 @@ title: The Empire Strikes Back 47 - War! What is it good for?
 date: 2013-11-03 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire had won its war against Scotland. Lincoln was the only province in Mercia under any others' control.  
 

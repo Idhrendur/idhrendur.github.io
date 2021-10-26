@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 15 – The Great Rebellion"
 date:   2013-02-25 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 This was Makarios I of the Empire. He took the throne on 17 May 1177.
 

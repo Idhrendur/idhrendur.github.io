@@ -4,7 +4,7 @@ title: The Empire Strikes Back 21 - The Glory of Battle
 date: 2013-03-03 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XIII of the Empire. He had ascended to the throne at the age of nine, and had just come out from the resulting regency in 1196.
 

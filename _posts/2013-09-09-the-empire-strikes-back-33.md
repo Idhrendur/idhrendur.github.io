@@ -4,7 +4,7 @@ title: The Empire Strikes Back 33 - Civil Wars
 date: 2013-09-09 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire had survived a major civil war. The Scholai Palatinae were recovered. It was time again to reclaim old territory.
 

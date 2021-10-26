@@ -4,7 +4,7 @@ title: The Empire Strikes Back 90 - 1849-1854
 date: 2015-07-19 01:26
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators, your presence is requested for a State of the Empire Address on the Ninth of May, 1854.

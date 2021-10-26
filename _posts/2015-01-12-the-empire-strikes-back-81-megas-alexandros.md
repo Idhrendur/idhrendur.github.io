@@ -4,7 +4,7 @@ title: The Empire Strikes Back 81 - Megas Alexandros
 date: 2015-01-12 03:29
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 While the Alexandrian Renaissance slowed in it's inattentiveness, it was still rapid. The legions took advantage of advancements in explosives to begin retaining units of grenadiers. And the imperial cavalry mastered the art of mounted skirmishing with firearms.  
 <p align="center"><img src="/assets/tesb_images/81-1.png"></p>

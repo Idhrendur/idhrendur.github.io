@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 6"
 date:   2013-02-07 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 During the Fatimid war, Konstanios III had been gathering people around an idea: his taking the county of Kaliopolis for himself. The war complete, he enacted his plan.  
 ![](/assets/return_of_the_romans_images/6-1.png)

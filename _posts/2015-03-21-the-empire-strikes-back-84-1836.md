@@ -4,7 +4,7 @@ title: The Empire Strikes Back 84 - 1836
 date: 2015-03-21 17:18
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Senators, We thank you for how you honored Us during Our coronation ceremony.
 

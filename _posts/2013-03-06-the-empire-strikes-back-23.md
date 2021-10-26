@@ -4,7 +4,7 @@ title: The Empire Strikes Back 23 - The Donation of Constantine
 date: 2013-03-06 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos had reclaimed the whole of the Empire. It was enough to fulfill any man's pride, even his. But now his advisors had sent a scholar to him. They claimed this scholar had news of great import, but that he tended to speak long. Konstantinos steeled himself.
 

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 48a - The World, 1450
 date: 2013-11-16 18:02
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was the known world shortly after the death of Konstantios IV.  
 ![](/assets/tesb_images/48a-1.png)

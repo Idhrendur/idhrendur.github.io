@@ -4,7 +4,7 @@ title: The Empire Strikes Back 66 - The Zealous
 date: 2014-08-16 21:28
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In the aftermath of the civil war, the Empire was feeling the pain of the war. Konstantinos had instructed his agents throughout the land to try to bring peace and order, and had authorized them to spend money to make it happen. Some gifts, some feasts, and a whole lot of quelling the hotheads would be needed to restore stability. As well, the legions needed some time to recover, and to be placed where they might be helpful. But during the war, Holstein had declared support for the Reformed heresy. So in January of 1631, Konstantinos declared yet another war.
 <p align="center"><img src="/assets/tesb_images/66-1.png"></p>

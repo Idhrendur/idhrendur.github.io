@@ -4,7 +4,7 @@ title: The Empire Strikes Back 31 - The Great
 date: 2013-09-07 16:49
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XIV of the Empire. His father had lost control of the Empire to another branch of the Doukas family, leaving Konstantinos merely the Duke of Thrace. His father had died in 1267, when he was four.
 

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 65 - The Particularist Revolt
 date: 2014-08-11 01:37
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Imperial colonies had grown greatly in just a few years. This was largely due to the locals. Where the peoples of the Empire expected to "bring civilization to the natives", the natives proved to be more canny and clever than the incoming settlers. They took advantage of the Imperial technology, adopted Greek as a trade language, and reorganized their localities on their terms. The connection to trans-Atlantic trade was a major boon for them. As was the political organization from the Empire. Those settlers who had dreams of rulership were mostly disappointed. A few rose to prominence, but there was little aristocracy in the colonies. Or at least, the aristocracy was not so formally defined.
 

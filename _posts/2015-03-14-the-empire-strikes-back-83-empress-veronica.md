@@ -4,7 +4,7 @@ title: The Empire Strikes Back 83 - Empress Veronica
 date: 2015-03-14 01:35
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In December of 1835, Senator Nicolai Stathopoulos was summoned to the Imperial Palace. This was quite odd, because no-one had been to the Imperial Palace in years.  
 

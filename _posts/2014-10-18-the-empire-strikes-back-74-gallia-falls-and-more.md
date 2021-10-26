@@ -4,7 +4,7 @@ title: The Empire Strikes Back 74 - Gallia Falls, and More
 date: 2014-10-18 16:10
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In 1700, Emperor Konstantinos XIX gave greater restrictions on joint-stock companies and their operations. This increased the efficiency and competitiveness of Imperial companies, but at the cost of shutting out many new and small companies.  
 <p align="center"><img src="/assets/tesb_images/74-1.png"></p>

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 69 - 1650 Update
 date: 2014-09-06 19:18
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 From 1600 to 1650, the Empire had again not expanded much. Instead it had put it's efforts towards enforcing religious unity.
 

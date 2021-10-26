@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 7"
 date:   2013-02-08 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 This was Athanasia I of the East Roman Empire. Her father died in 1080, when she was one, leaving her in charge of the Empire. Well, sort of.  
 ![](/assets/return_of_the_romans_images/7-1.png)

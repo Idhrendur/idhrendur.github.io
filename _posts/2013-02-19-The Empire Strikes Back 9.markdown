@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 9 – Prince of Egypt"
 date:   2013-02-19 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Konstantios had waged a solid campaign of revenge against the Fatimids before he was distracted by a minor series of other wars.
 

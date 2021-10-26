@@ -4,7 +4,7 @@ title: The Empire Strikes Back 76 - To the Rhine
 date: 2014-11-02 16:05
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantios XII inherited an Empire with an imperative to conquer all the way to the Rhine. This was very nearly done, but the Kingdom of Schwyz held some of those lands and was heavily influenced by the Netherlands.  
 <p align="center"><img src="/assets/tesb_images/76-1.png"></p>

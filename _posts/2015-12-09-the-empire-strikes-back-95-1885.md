@@ -4,7 +4,7 @@ title: The Empire Strikes Back 95 - 1880-1885
 date: 2015-12-09 04:55
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Blachernae Palace, 1st of January 1885

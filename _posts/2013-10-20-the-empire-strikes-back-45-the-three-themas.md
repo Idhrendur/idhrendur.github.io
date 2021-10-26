@@ -4,7 +4,7 @@ title: The Empire Strikes Back 45 - The Three Themas
 date: 2013-10-20 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantios had been faced with a dilemma: he could accept a Timurid surrender and prevent a certain devastating loss of soldiers, or he could keep fighting and resettle some strategic Timurid provinces, bringing them into the Imperial fold.  
 ![](/assets/tesb_images/45-1.png)

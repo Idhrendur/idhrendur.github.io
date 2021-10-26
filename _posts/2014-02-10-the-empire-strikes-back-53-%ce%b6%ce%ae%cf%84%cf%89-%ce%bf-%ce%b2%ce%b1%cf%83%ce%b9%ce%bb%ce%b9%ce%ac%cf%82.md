@@ -4,7 +4,7 @@ title: The Empire Strikes Back 53 - …ζήτω ο βασιλιάς!
 date: 2014-02-10 01:21
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 *Konstantios was the grandson of Empress Zoe II. He inherited the Empire when he was almost six, just a month away, okay, fine he was five years old. He was a very smart and skilled emperor, everyone said so. And he had a regency council who made sure all his subjects loved him!*  
 ![](/assets/tesb_images/53-1.png)

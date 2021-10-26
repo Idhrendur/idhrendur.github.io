@@ -4,7 +4,7 @@ title: The Empire Strikes Back 46 - The Scottish Play
 date: 2013-10-27 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire had a goal: to reclaim Mercia. The war with England had brought half of it into the imperial fold. Of the remaining three provinces, Scotland held two and England held one.  
 

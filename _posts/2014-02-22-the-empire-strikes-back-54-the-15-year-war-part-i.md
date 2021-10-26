@@ -4,7 +4,7 @@ title: The Empire Strikes Back 54 - The 15 Year War, Part I
 date: 2014-02-22 20:42
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire was at war with nearly all of the Catholic and Protestant world.  
 

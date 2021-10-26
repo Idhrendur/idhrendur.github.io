@@ -4,7 +4,7 @@ title: The Empire Strikes Back 64 - The Fall of the Papacy
 date: 2014-08-02 16:32
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos began the 17th century by continuing the wars of religion. On the 20th of February, 1600, he declared war on Styria. Their allies joined them, of course, though converting them to Orthodoxy before the war would have been a better defense.
 <p align="center"><img src="/assets/tesb_images/64-1.png"></p>

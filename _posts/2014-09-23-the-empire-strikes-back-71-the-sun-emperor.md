@@ -4,7 +4,7 @@ title: The Empire Strikes Back 71 - The Sun Emperor
 date: 2014-09-23 04:21
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Theodoros became Emperor at age eight. A regency council ruled for him, but was of marginal competence. Being a more distant cousin, Theodoros was also not considered completely legitimate as ruler. The regency council hired Nestor Boumbalis to counter this perception.
 <p align="center"><img src="/assets/tesb_images/71-1.png"></p>

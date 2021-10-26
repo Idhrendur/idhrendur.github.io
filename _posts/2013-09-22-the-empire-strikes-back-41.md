@@ -4,7 +4,7 @@ title: The Empire Strikes Back 41 - The Eve of Change
 date: 2013-09-22 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 By 1408, the Empire was ascendant in Europe. But the Empire's strength was in it's people. How united were they?
 

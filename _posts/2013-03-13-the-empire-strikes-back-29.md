@@ -4,7 +4,7 @@ title: The Empire Strikes Back 29 - River and Islands
 date: 2013-03-13 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos had reclaimed the Empire for his family line, but the internal warring had left it a wreck of its former self. There was a war to weaken the right of the Emperor even more than the existing wars had lowered them. A war that was lost the moment it became his to fight.
 

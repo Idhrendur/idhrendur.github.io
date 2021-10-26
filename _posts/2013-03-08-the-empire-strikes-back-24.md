@@ -4,7 +4,7 @@ title: The Empire Strikes Back 24 - The Glorious
 date: 2013-03-08 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XIII of the Empire.
 

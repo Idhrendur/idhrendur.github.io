@@ -4,7 +4,7 @@ title: The Empire Strikes Back 40 - The Wise
 date: 2013-09-16 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XVI of the Empire. He ruled from 1363 to 1408, just months shy of 45 years.
 

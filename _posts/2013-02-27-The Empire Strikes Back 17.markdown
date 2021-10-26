@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 17 – Ah, Venice!"
 date:   2013-02-27 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Makarios I had fought off a major rebellion, punished the leaders, and fought two minor wars to finish the work of properly distributing the lands taken from the rebels. When all this was finished, he tried to rest, but found himself restless. Apparently he had learned to not be so slothful. So he sent the Cataphracts north, to actually assist allies in their wars.
 

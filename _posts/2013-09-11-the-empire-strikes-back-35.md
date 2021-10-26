@@ -4,7 +4,7 @@ title: The Empire Strikes Back 35 - όχι πιο πέρα
 date: 2013-09-11 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Emperor Konstantinos XVI of the Empire. He ascended to the throne at the age of 37, in the midst of a civil war.
 

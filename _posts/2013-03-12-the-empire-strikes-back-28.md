@@ -4,7 +4,7 @@ title: The Empire Strikes Back 28 - Regaining the Throne
 date: 2013-03-12 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Doux Konstantinos V of Thrace.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 4 – The Sea of Galilee"
 date:   2013-02-14 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Emperor Konstantinos X took advantage of a Fatamid civil war to regain parts of the Patriarchy of Jerusalem.
 

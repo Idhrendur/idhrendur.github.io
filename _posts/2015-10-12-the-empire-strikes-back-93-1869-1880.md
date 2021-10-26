@@ -4,7 +4,7 @@ title: The Empire Strikes Back 93 - 1869-1880
 date: 2015-10-12 03:05
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators,

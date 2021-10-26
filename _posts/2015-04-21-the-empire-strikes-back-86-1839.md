@@ -4,7 +4,7 @@ title: The Empire Strikes Back 86 - 1837-1839
 date: 2015-04-21 01:20
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 All Senators,
 

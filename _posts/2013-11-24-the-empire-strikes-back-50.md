@@ -4,7 +4,7 @@ title: The Empire Strikes Back 50 - Kings of Leon
 date: 2013-11-24 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire declared war on Toledo as soon as their truce ended. A few other nations came to their defense. Notably, León did. But it was no enough to save Toledo, which was annexed. The same nobles that gained appointments in newly Imperial Toledo insisted that the region of León be brought under Imperial control.  
 ![](/assets/tesb_images/50-1.png)

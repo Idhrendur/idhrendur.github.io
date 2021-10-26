@@ -4,7 +4,7 @@ title: The Empire Strikes Back 91 - 1854-1860
 date: 2015-08-18 00:58
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators, your presence is requested for a State of the Empire Address on the First of March, 1860.

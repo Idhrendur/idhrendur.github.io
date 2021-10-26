@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 18 – Losses"
 date:   2013-02-28 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Makarios had just lost what should have been an easy war against Venice when the Cataphracts were met by a vastly larger HRE force and completely scattered.
 

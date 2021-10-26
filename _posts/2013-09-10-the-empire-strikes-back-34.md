@@ -4,7 +4,7 @@ title: The Empire Strikes Back 34 - The Cruel
 date: 2013-09-10 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XV of the Empire. He had ascended to the throne in 1328, at the age of 48.
 

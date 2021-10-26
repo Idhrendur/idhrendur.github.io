@@ -4,7 +4,7 @@ title: The Empire Strikes Back 42 - The Reformer
 date: 2013-09-29 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantios IV Doukas, Emperor of the Romans.
 

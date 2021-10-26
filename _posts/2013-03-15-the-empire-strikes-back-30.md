@@ -4,7 +4,7 @@ title: The Empire Strikes Back 30 - East and West
 date: 2013-03-15 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 During the truces with European rulers, Konstantinos had waged a campaign against Egypt, waging war against vassals who had rebelled against the Egyptian king. He eventually conquered enough that he could usurp the kingdom, and once he had granted it to one of the new vassals he had set in place, everyone was willing to swear fealty.
 

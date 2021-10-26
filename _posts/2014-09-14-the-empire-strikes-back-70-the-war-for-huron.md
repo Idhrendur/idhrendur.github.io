@@ -4,7 +4,7 @@ title: The Empire Strikes Back 70 - The War for Huron
 date: 2014-09-14 16:19
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Demetrios II was now the Emperor.
 <p align="center"><img src="/assets/tesb_images/70-1.png"></p>

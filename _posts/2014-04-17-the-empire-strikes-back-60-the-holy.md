@@ -4,7 +4,7 @@ title: The Empire Strikes Back 60 - The Holy
 date: 2014-04-17 00:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Before launching the war for Portugal, Konstantios took advantage of his steadily improving government to convince people to found new colonies.  
 <p align="center"><img src="/assets/tesb_images/60-1.png"></p>

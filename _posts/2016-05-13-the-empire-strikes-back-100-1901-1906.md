@@ -4,7 +4,7 @@ title: The Empire Strikes Back 100 - 1901-1906
 date: 2016-05-13 22:52
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Announcing the Session</strong></p>
 Senators,

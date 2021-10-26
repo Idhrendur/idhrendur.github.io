@@ -4,7 +4,7 @@ title: The Empire Strikes Back 101 - The Death of Emperor Konstantinos XX
 date: 2016-09-10 22:52
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>The Death is Announced</strong></p>
 

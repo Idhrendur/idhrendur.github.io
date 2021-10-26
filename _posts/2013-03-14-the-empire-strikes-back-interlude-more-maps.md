@@ -4,7 +4,7 @@ title: The Empire Strikes Back Interlude - More Maps
 date: 2013-03-14 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire just before Niketas was deposed.
 ![](/assets/tesb_images/29-11.png)

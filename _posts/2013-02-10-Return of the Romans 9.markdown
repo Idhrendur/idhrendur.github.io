@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 9"
 date:   2013-02-10 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 This was Duchess Elaiodora of Thrace. She had inherited the duchy from her sister, who had been executed after a failed attempt to work her way back up to the Imperial title via murder.  
 ![](/assets/return_of_the_romans_images/9-1.png)

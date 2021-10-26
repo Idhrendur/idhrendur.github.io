@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 8 – The Χριστιανός ρυπαρός υιοθεσία"
 date:   2013-02-18 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Emperor Konstantios III had beaten back an attack by the Fatimids. During the Triumph (a small one to honor the soldiers, Konstantios was humble about his own role), Konstatios was fuming. That heathens would attack the bastion of true Christianity infuriated him. While the cataphracts recovered, he stirred up the peoples. He explained how the heathens were misled and far from God, wicked in their sin, but eagerly waiting to be adopted into the family of God and redeemed. He described how their leaders had failed them, and how Christian leaders must be set in place (the old leaders being severely punished, of course). The people were moved by this, and eager to go to war. Later historians would refer to these wars as the Χριστιανός ρυπαρός υιοθεσία (XRW) - The Christian Adoption of the Wicked. Though the bodies recovered from Konstantios' dungeons after his death would make them wonder as to the actual motivations behind the wars. Several of the bodies had displayed signs of torture, and many of the prisoners had languished for decades.
 

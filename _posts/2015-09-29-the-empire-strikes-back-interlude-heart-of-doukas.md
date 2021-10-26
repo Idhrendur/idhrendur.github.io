@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Empire Strikes Back Interlude — Heart of Doukas
+title: The Empire Strikes Back Interlude - Heart of Doukas
 date: 2015-09-29 01:43
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 "MINISTER OF SECURITY MISSING!"
 Alexios read the newspaper over and over again and then glanced over at the Imperial Order on his table.  The news stated that his father, the senator who had saved the empress and the Empire from the wrath of a pagan cult, had been abducted by unknown persons.  He and the other senators knew better than the partial truth they were forced to tell the common people.  His father was captured by the Cult itself.  

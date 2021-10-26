@@ -4,7 +4,7 @@ title: The Empire Strikes Back 78 - 1750 Update
 date: 2014-11-15 18:39
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 By 1750, the Empire had finally reclaimed all of its historical holdings.  
 <p align="center"><img src="/assets/tesb_images/78-1.png"></p>

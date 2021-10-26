@@ -4,7 +4,7 @@ title: The Empire Strikes Back 92 - 1860-1869
 date: 2015-09-17 16:19
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Summoning the Senate</strong></p>
 Senators, your presence is requested for a State of the Empire Address at Blachernae Palace on the First of September, 1869.

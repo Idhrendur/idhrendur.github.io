@@ -4,7 +4,7 @@ title: The Empire Strikes Back - Dramatis Personae
 date: 2015-03-13 01:19
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <b>Non-Player Characters</b>  
 Emperor Michael VII - Second son of Emperor Konstantinos, rose to power on his assassination in 1910.  

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 106 - The Time of Troubles 1912-1913
 date: 2019-01-22 02:13
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 
 <p style="text-align: center;"><strong>18 August 1912</strong></p>

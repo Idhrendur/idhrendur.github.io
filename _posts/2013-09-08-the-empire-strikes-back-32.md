@@ -4,7 +4,7 @@ title: The Empire Strikes Back 32 - The Sicilian War
 date: 2013-09-08 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 This was Konstantinos XV of the Empire. He was a content man, not seeking greater glory for himself. But he was proud, and would do his best to see the Empire returned to the full glory of its past.
 

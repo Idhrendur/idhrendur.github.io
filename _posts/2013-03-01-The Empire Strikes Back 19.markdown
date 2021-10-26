@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 19 – The Cruel"
 date:   2013-03-01 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 This was Makarios I of the Empire. He ascended to the Imperial throne in 1177.
 

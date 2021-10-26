@@ -4,7 +4,7 @@ title: The Empire Strikes Back 49 - The Persian Plan
 date: 2013-11-17 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The wars for Helvetia had been won, and the Timurid lands were quickly being pacified. Konstantios finally felt he could lay down his crown. He died in his sleep, 103 years old. The succession passed to his nine year old niece, Zoe. While the court scrambled to put together a regency council, a distant cousin in Rouergue proclaimed himself the rightful Emperor. He even raised 4,000 troops for his rebellion, which was swiftly put down.  
 ![](/assets/tesb_images/49-1.png)![](/assets/tesb_images/49-2.png)

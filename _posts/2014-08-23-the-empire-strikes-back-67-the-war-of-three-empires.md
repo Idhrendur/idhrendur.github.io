@@ -4,7 +4,7 @@ title: The Empire Strikes Back 67 - The War of Three Emperors
 date: 2014-08-23 15:51
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Demetrios I was the son of and successor to Konstantinos the Zealous. He was excellent at war, skilled at diplomacy, and good at administration. His son Ioannes, who promised to be even more skilled, was appointed heir.
 <p align="center"><img src="/assets/tesb_images/67-1.png"></p>

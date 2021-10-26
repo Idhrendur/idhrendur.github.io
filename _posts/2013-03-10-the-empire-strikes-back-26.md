@@ -4,7 +4,7 @@ title: The Empire Strikes Back 26 - The Great Rebellion
 date: 2013-03-10 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In 1264, a faction demanded Loukas Doukas be placed on the throne. Emperor Niketas I refused .The ensuing war well-divided the Empire. But Niketas could raise impressive amounts of men, in addition to the power of the Scholai Palatinae.
 

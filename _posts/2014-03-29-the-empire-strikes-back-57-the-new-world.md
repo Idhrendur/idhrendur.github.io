@@ -4,7 +4,7 @@ title: The Empire Strikes Back 57 - The New World
 date: 2014-03-29 06:52
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The 15 Year war was over, and peace reigned. But some of the harsh terms of the peace had left Konstantios XI with a terrible reputation.  
 <p align="center"><img src="/assets/tesb_images/57-1.png"></p>

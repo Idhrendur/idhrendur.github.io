@@ -4,7 +4,7 @@ title: The Empire Strikes Back 38 - The First Timurid War
 date: 2013-09-14 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 During May of 1389, while the forces of the Empire were in the west, the Timurids in the east finally turned their attentions to the Empire. Their main forces did not lie on the border, which meant the Empire had time to prepare. The levies were called up and ships sent to transport them to the Levant.
 

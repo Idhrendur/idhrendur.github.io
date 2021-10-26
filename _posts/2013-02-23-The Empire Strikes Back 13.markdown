@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 13 – Childless and Bereft"
 date:   2013-02-23 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 Konstantios XII pondered the succession in the Empire. Both his children had died, and his wife was past childbearing years. Some of his advisers recommended that for the good of the Empire, he should divorce his wife and marry a younger woman. A few suggested darker methods. But he was kind and honest, and in love with his wife. He refused all such options. Other advisers recommended changing the succession laws of the Empire. At the very least, they urged, bring the Egyptian succession laws in line with the Imperial ones. But Konstantinos had ruled neither Egypt nor the Empire long enough for any such reforms to be made. For now, he would have to wait and see what to do.
 

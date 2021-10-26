@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 4"
 date:   2013-02-05 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 Konstantios had surrendered to a civil war, weakening his powers as emperor. But he still faced a rebellion from two eastern dukes who sought independence, and the Fatimids had declared an invasion of Armenia.
 

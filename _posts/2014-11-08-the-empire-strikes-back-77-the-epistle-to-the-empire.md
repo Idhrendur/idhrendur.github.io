@@ -4,7 +4,7 @@ title: The Empire Strikes Back 77 - The Epistle to the Empire
 date: 2014-11-08 17:15
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantios, XII of his name, Basilious   
 

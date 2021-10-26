@@ -4,7 +4,7 @@ title: The Empire Strikes Back 75 - 'Murica
 date: 2014-10-25 21:27
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos was enjoying an extended time of peace. He needed to enjoy it, for this peace would be there if he liked it or not. He was not foolish enough to continue waging war while his reputation suffered so. He used this time to tighten relationships in the court, keeping the nobles ever more engaged. If this meant excluding the rich, they could be trusted to find their own rewards.  
 <p align="center"><img src="/assets/tesb_images/75-1.png"></p>

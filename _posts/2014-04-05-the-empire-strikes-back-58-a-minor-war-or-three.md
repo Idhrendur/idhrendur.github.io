@@ -4,7 +4,7 @@ title: The Empire Strikes Back 58 - A Minor War or Three
 date: 2014-04-05 16:27
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantios continued the quest to regain Essex by declaring war on Scotland. This would be a tougher war than the one with England, as Scotland was larger and had powerful allies. Bavaria, Gondar, and Adal joined the war in defense of Scotland.  
 <p align="center"><img src="/assets/tesb_images/58-1.png"></p>

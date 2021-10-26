@@ -4,7 +4,7 @@ title: The Empire Strikes Back 73 - 1700 Update
 date: 2014-10-12 02:23
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 From 1650 to 1700, the Empire had begun expanding again, if only a little, regaining the Roman Netherlands and Occitania.  
 <p align="center"><img src="/assets/tesb_images/73-1.png"></p>

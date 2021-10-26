@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 2"
 date:   2013-02-03 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 This was Konstantios III.  
 ![](/assets/return_of_the_romans_images/2-1.png)

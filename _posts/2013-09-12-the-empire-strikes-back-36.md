@@ -4,7 +4,7 @@ title: The Empire Strikes Back 36 - Thallasa Mas
 date: 2013-09-12 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos XVI (the Wise) had seen the complete reconquest of the Mediterranean. Well, nearly complete. There was a long independent mosque on the coast of Morocco, and Leon held the county of Ifna.
 

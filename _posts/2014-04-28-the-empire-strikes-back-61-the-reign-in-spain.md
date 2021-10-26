@@ -4,7 +4,7 @@ title: The Empire Strikes Back 61 - The Reign in Spain
 date: 2014-04-28 01:32
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Ioannes VII became Emperor as 1565 drew to a close. He was not a skilled leader. In fact, fighting was all that he was good at. He had some awareness of his lack of ability, but his pride made him insist he was just as good as his father. So he wasted little time in starting wars with non-orthodox nations.  
 <p align="center"><img src="/assets/tesb_images/61-1.png"></p>

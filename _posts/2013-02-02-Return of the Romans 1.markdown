@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 1"
 date:   2013-02-02 14:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 This was Konstantinos X of the East Roman Empire.  
 ![](/assets/return_of_the_romans_images/1-1.png)

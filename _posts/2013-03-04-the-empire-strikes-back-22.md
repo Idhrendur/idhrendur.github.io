@@ -4,7 +4,7 @@ title: The Empire Strikes Back 22 - De Jure
 date: 2013-03-04 14:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos had recovered nearly all the lands that were de jure part of the Empire. Meanwhile, his chancellor had produced documents demonstrating his claims to Genoa and Alexandria. While his ambitions had been sated, his pride would not let the opportunity pass. So he declared war on France.
 

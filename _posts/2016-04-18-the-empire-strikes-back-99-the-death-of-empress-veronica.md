@@ -4,7 +4,7 @@ title: The Empire Strikes Back 99 - The Death of Empress Veronica
 date: 2016-04-18 03:30
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>The Death is Announced</strong></p>
 January 22, 1901, a messenger arrives to a hastily-assembled Senate.

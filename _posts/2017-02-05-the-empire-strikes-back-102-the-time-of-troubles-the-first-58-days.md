@@ -4,7 +4,7 @@ title: The Empire Strikes Back 102 - The Time of Troubles, the First 58 Days
 date: 2017-02-05 03:04
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 
 <p style="text-align: center;"><strong>The Imperial Civil War</strong></p>

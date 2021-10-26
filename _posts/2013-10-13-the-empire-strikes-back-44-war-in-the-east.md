@@ -4,7 +4,7 @@ title: The Empire Strikes Back 44 - War in the East
 date: 2013-10-13 03:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 In addition to all the other changes, Konstantios instituted administrative reforms in the Imperial government. Officials would be appointed by their merits, and would have clearly delineated areas of responsibility. This would allow for better administration with less political infighting.
 

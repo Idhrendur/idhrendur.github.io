@@ -4,7 +4,7 @@ title: The Empire Strikes Back 37 - Gallia
 date: 2013-09-13 15:00
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 Konstantinos XVI had truces with anyone he cared to war against. So he spent several years building cities and recruiting more men.
 

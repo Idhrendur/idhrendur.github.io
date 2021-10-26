@@ -2,7 +2,7 @@
 layout: post
 title:  "The Empire Strikes Back 1 – A New Beginning"
 date:   2013-02-11 14:00:00 -0800
-categories: AARs The_Empire_Strikes_Back
+categories: [AARs, TESB]
 ---
 This was Konstantinos X of the Empire.*
 

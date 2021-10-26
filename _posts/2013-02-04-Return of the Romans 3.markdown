@@ -2,7 +2,7 @@
 layout: post
 title:  "Return of the Romans 3"
 date:   2013-02-04 16:00:00 -0800
-categories: AARs Return_Of_The_Romans
+categories: [AARs, ROTR]
 ---
 Regent Kyrillos had taken advantage of the peace to begin building projects in the city of Heiron, his personal holding. Projects funded by Konstantios' treasury.  
 ![](/assets/return_of_the_romans_images/3-1.png)

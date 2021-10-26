@@ -4,7 +4,7 @@ title: The Empire Strikes Back 104 - The Sack of Constantinople
 date: 2018-08-11 02:29
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 
 <p style="text-align: center;"><strong>17 August 1910</strong></p>

@@ -4,7 +4,7 @@ title: The Empire Strikes Back 82 - 1821 Update
 date: 2015-02-07 18:50
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 The Empire's borders had not changed appreciably in the last 70 years.  
 <p align="center"><img src="/assets/tesb_images/82-1.png"></p>

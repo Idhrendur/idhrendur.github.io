@@ -4,7 +4,7 @@ title: The Empire Strikes Back 96 - 1885-1890
 date: 2016-01-29 23:27
 author: idhrendur
 comments: true
-categories: [AARs, The Empire Strikes Back]
+categories: [AARs, TESB]
 ---
 <p style="text-align: center;"><strong>Between Sessions</strong></p>
 
