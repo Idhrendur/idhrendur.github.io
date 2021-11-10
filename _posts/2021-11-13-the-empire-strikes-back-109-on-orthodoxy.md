@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Empire Strikes Back 109 - On Orthodoxy
-date: 2020-11-13 12:00
+date: 2021-11-13 12:00
 author: idhrendur
 comments: true
 categories: [AARs, TESB]
