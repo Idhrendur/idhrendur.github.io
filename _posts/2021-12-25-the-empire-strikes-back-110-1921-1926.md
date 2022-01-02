@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Empire Strikes Back 110 - 1921-1926
-date: 2021-11-20 12:00
+date: 2021-12-25 12:00
 author: idhrendur
 comments: true
 categories: [AARs, TESB]
