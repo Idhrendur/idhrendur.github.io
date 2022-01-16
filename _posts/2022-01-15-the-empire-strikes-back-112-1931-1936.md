@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Empire Strikes Back 112 - 1931-1936
-date: 2021-12-11 12:00
+date: 2022-01-15 12:00
 author: idhrendur
 comments: true
 categories: [AARs, TESB]
